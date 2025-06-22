@@ -116,8 +116,8 @@ Update the database configuration in the properties file to match your setup.
   - `spring.datasource.password`
 - Note: This is for demo purposes only. Please avoid storing sensitive configuration details in `application.properties`.
 
-Start the app:
-`src/main/java/com/codingshenanigans/spring_postgres_example/SpringPostgresExampleApplication.java`
+Start the app.
+- `src/main/java/com/codingshenanigans/spring_postgres_example/SpringPostgresExampleApplication.java`
 
-Send a request:
-http://localhost:9000/todos
+Send a request.
+- http://localhost:9000/todos
